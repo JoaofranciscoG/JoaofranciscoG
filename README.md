@@ -1,11 +1,7 @@
-# 👨🏻‍💻 Kaléu Kewin de Paula
+# 👨🏻‍💻 João Francisco Garcia
 
 **Desenvolvedor Back-End**
-
-Me chamo Kaléu Kewin de Paula, estudo programação desde fevereiro de 2024.
-
 ---
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
